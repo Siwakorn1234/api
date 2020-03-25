@@ -1,4 +1,4 @@
-# FumerAPI
+# API
 
 ## Postman
 
